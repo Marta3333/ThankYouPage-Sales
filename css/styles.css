@@ -1,9 +1,6 @@
 html, body{
   height: 100vh;
 }
-a{
-  font-family: 'Source Sans Pro', sans-serif;
-}
 body.myBody{
   background-color: #e3afc7;
 }
